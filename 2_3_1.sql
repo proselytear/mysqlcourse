@@ -1,0 +1,1 @@
+ALTER TABLE specialties ADD INDEX idx_specialty_name (name);

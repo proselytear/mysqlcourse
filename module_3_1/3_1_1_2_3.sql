@@ -1,0 +1,1 @@
+SELECT title, description, developer_id from tasks ORDER BY developer_id DESC;

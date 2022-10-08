@@ -1,0 +1,1 @@
+SELECT name, id from specialties ORDER BY name;

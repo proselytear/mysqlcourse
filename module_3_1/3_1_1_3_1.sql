@@ -1,0 +1,1 @@
+SELECT * FROM developers WHERE specialty_id = 1;

@@ -1,0 +1,1 @@
+UPDATE tasks SET description = 'To be done' WHERE description IS NULL;

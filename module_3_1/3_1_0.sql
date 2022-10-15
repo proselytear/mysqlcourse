@@ -10,11 +10,11 @@ INSERT INTO specialties
 VALUES (5, 'JS');
 
 INSERT INTO developers
-VALUES (1, 'Ivan', 'Ivanov', 27, 1);
+VALUES (1, 'Ivan', 'Ivanov', '1995-09-1 00:00:00', 1);
 INSERT INTO developers
-VALUES (2, 'Sergey', 'Sergeev', 28, 2);
+VALUES (2, 'Sergey', 'Sergeev', '1988-10-28 00:00:00', 2);
 INSERT INTO developers
-VALUES (3, 'Petr', 'Petrov', 29, 3);
+VALUES (3, 'Petr', 'Petrov', '1992-08-22 00:00:00', 3);
 
 INSERT INTO tasks
 VALUES (1, 'Task 1', 'Task 1 description', 1);

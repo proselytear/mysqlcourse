@@ -1,0 +1,1 @@
+DELETE FROM specialties WHERE id >= 1000000000;
